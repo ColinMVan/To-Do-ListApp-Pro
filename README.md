@@ -1,4 +1,7 @@
-This is a To-Do List app that allows the user to add and complete custom tasks. The user can add up to 7 tasks at a time, and can also view the creators of the project through the About page. Below is a screenshot of the app.
+This is a To-Do List app that allows the user to add and complete custom tasks. The user can add more than 20 tasks at a time. Below is a screenshot of the app.
+
+Colin: Added the sign in options, and log out option.
+Chryzor: Added the firestore database.
 
 
 
